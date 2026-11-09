@@ -68,7 +68,7 @@
         "wk:page":"Crljenac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"7a8345c0caf22f7ebc3326e69e3203ef",
+    "wof:geomhash":"2f6d6161e1d776dde85c42cd65b41b33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.36142000000001,
     44.49512
 ],
-  "geometry": {"coordinates":[21.36142000000001,44.49512],"type":"Point"}
+  "geometry": {"coordinates":[21.36142,44.49512],"type":"Point"}
 }

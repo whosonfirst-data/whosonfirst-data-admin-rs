@@ -68,7 +68,7 @@
         "wk:page":"Borince"
     },
     "wof:country":"RS",
-    "wof:geomhash":"6c26241c7921561967215ab2ff56cee3",
+    "wof:geomhash":"46c68648e44894f7b526e6bb07af2009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.56737,
     42.97949000000001
 ],
-  "geometry": {"coordinates":[21.56737,42.97949000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.56737,42.97949],"type":"Point"}
 }

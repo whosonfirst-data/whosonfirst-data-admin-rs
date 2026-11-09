@@ -71,7 +71,7 @@
         "wk:page":"Banja%2C_Aran%C4%91elovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"f886e194b2946c8f11e300f127a95842",
+    "wof:geomhash":"2df5c51fe127b84833ead27aaa20e812",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.62141,
     44.27894000000001
 ],
-  "geometry": {"coordinates":[20.62141,44.27894000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.62141,44.27894],"type":"Point"}
 }

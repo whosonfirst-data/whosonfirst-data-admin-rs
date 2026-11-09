@@ -61,7 +61,7 @@
         "wk:page":"Lunjevica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e2db6474463258dfcdee66ec211d1134",
+    "wof:geomhash":"04761cb3efeeae6df38d9ebe7258d6db",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -84,5 +84,5 @@
     20.47622,
     43.99404000000001
 ],
-  "geometry": {"coordinates":[20.47622,43.99404000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.47622,43.99404],"type":"Point"}
 }

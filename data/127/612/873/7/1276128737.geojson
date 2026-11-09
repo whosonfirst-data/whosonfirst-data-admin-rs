@@ -47,7 +47,7 @@
         "wk:page":"Rajkovi%C4%87"
     },
     "wof:country":"RS",
-    "wof:geomhash":"4e0f4f9a021273c92c64061bc1aab133",
+    "wof:geomhash":"6193e7fd1b76882352f32ddad456d8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     20.01312,
     44.22479000000001
 ],
-  "geometry": {"coordinates":[20.01312,44.22479000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.01312,44.22479],"type":"Point"}
 }

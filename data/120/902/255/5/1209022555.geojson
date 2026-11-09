@@ -61,7 +61,7 @@
         "wk:page":"Goluban"
     },
     "wof:country":"RS",
-    "wof:geomhash":"8267236d73099c64933749528a4665cb",
+    "wof:geomhash":"80b7c1777469932c401990cf9258fd97",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -84,5 +84,5 @@
     20.23389,
     43.26094000000001
 ],
-  "geometry": {"coordinates":[20.23389,43.26094000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.23389,43.26094],"type":"Point"}
 }

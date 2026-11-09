@@ -68,7 +68,7 @@
         "wk:page":"Babi%C4%8Dko"
     },
     "wof:country":"RS",
-    "wof:geomhash":"0ff0f85db5004345511b390a51dc815f",
+    "wof:geomhash":"b478383d3001d6f4e02a27eae81acb20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.00013,
     43.13800000000001
 ],
-  "geometry": {"coordinates":[22.00013,43.13800000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.00013,43.138],"type":"Point"}
 }

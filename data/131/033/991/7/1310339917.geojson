@@ -91,7 +91,7 @@
         "wk:page":"Banatsko_Novo_Selo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"b5569d5b6c5179ca9069f8be1c95dcf7",
+    "wof:geomhash":"9cae8be3cf7162d87d75d1ec40a1ffe7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,5 +118,5 @@
     20.78362000000001,
     44.98941
 ],
-  "geometry": {"coordinates":[20.78362000000001,44.98941],"type":"Point"}
+  "geometry": {"coordinates":[20.78362,44.98941],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Ponikovica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"6e7d988b63a34d222b2c822983f19c45",
+    "wof:geomhash":"86fc49184d181d118b2090b57a61f130",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     19.92617000000001,
     43.88175
 ],
-  "geometry": {"coordinates":[19.92617000000001,43.88175],"type":"Point"}
+  "geometry": {"coordinates":[19.92617,43.88175],"type":"Point"}
 }

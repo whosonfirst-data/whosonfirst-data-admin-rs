@@ -71,7 +71,7 @@
         "wk:page":"Kla%C5%A1njice"
     },
     "wof:country":"RS",
-    "wof:geomhash":"16ec6c70b403b4297b7abd673ce91516",
+    "wof:geomhash":"903f896da1c36867d9645e1212f19c19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.92882,
     42.59679000000001
 ],
-  "geometry": {"coordinates":[21.92882,42.59679000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.92882,42.59679],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Bu%C4%91evo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"ef1d9aea68c59afa4fc6241cfc6e8e28",
+    "wof:geomhash":"1e5812429fed23634207bf1482f1736a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.05121,
     43.14514000000001
 ],
-  "geometry": {"coordinates":[20.05121,43.14514000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.05121,43.14514],"type":"Point"}
 }

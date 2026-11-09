@@ -74,7 +74,7 @@
         "wk:page":"Crnotince"
     },
     "wof:country":"RS",
-    "wof:geomhash":"a2e88d264a3783ca989bf3577f55391f",
+    "wof:geomhash":"a5408c247ea88e3a44c6ca56fbc79e29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     21.69972000000001,
     42.35806
 ],
-  "geometry": {"coordinates":[21.69972000000001,42.35806],"type":"Point"}
+  "geometry": {"coordinates":[21.69972,42.35806],"type":"Point"}
 }

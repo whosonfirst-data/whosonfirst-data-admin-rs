@@ -68,7 +68,7 @@
         "wk:page":"Re%C4%8Dka"
     },
     "wof:country":"RS",
-    "wof:geomhash":"dd86c1aadb9d6f66083d6ea93f26d7de",
+    "wof:geomhash":"9cca7f33a98fb1c98607028827031a53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.47867,
     44.14644000000001
 ],
-  "geometry": {"coordinates":[22.47867,44.14644000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.47867,44.14644],"type":"Point"}
 }

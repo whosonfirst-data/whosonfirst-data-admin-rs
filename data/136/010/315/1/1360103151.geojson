@@ -71,7 +71,7 @@
         "wk:page":"Gunjevac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"9aafff70fb026cec878c12f001203fe3",
+    "wof:geomhash":"caa38ea9edb8206a9698279ed6f71e4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.04967000000001,
     44.44016
 ],
-  "geometry": {"coordinates":[20.04967000000001,44.44016],"type":"Point"}
+  "geometry": {"coordinates":[20.04967,44.44016],"type":"Point"}
 }

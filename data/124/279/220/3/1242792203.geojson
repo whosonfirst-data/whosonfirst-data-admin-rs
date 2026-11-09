@@ -68,7 +68,7 @@
         "wk:page":"Nadumce"
     },
     "wof:country":"RS",
-    "wof:geomhash":"706de47fa42b4956aee96224fbe54dd3",
+    "wof:geomhash":"dbbad6854def99d209b4a31eb9d38a05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.39651,
     43.05634000000001
 ],
-  "geometry": {"coordinates":[20.39651,43.05634000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.39651,43.05634],"type":"Point"}
 }

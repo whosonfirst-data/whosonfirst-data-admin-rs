@@ -67,7 +67,7 @@
         "wk:page":"Ribarci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"3a3070055ba972aa76356cfc073f5c89",
+    "wof:geomhash":"c558853be987177b2778f1fd520c9001",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.53042,
     42.42339000000001
 ],
-  "geometry": {"coordinates":[22.53042,42.42339000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.53042,42.42339],"type":"Point"}
 }

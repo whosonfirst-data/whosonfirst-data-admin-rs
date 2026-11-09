@@ -67,7 +67,7 @@
         "wk:page":"Panjevac_%28Aleksandrovac%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"9518d7117e62ee5c46ec0ac50a639639",
+    "wof:geomhash":"0f69bf71c1ab26f2915c487ad77bc4c5",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -90,5 +90,5 @@
     21.11582000000001,
     43.40122
 ],
-  "geometry": {"coordinates":[21.11582000000001,43.40122],"type":"Point"}
+  "geometry": {"coordinates":[21.11582,43.40122],"type":"Point"}
 }

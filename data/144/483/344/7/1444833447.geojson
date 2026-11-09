@@ -48,7 +48,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"7998db53a2491642024d9795098dcce4",
+    "wof:geomhash":"fd191587674f8f11ae3ad1c977e039f5",
     "wof:hierarchy":[
         {
             "borough_id":1393843439,
@@ -77,5 +77,5 @@
     20.46360217367197,
     44.81015130340209
 ],
-  "geometry": {"coordinates":[20.46360217367197,44.81015130340209],"type":"Point"}
+  "geometry": {"coordinates":[20.463602,44.810151],"type":"Point"}
 }

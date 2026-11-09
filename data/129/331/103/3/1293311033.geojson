@@ -68,7 +68,7 @@
         "wk:page":"Krivi_Del"
     },
     "wof:country":"RS",
-    "wof:geomhash":"87919f36081e6cd179e888e11bab6011",
+    "wof:geomhash":"17c85f2a73ed149c5e8d00c00c3b31aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.33866,
     42.92104000000001
 ],
-  "geometry": {"coordinates":[22.33866,42.92104000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.33866,42.92104],"type":"Point"}
 }

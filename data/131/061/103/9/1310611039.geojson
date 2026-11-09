@@ -71,7 +71,7 @@
         "wk:page":"Mosna_%28Majdanpek%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"88ee5ad4c58cc232ab553dd4a0ec9f30",
+    "wof:geomhash":"07b12c50959668b449fe1507e70dce90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.18056,
     44.44694000000001
 ],
-  "geometry": {"coordinates":[22.18056,44.44694000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.18056,44.44694],"type":"Point"}
 }

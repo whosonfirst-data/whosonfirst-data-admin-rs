@@ -71,7 +71,7 @@
         "wk:page":"Kupuzi%C5%A1te"
     },
     "wof:country":"RS",
-    "wof:geomhash":"1c7e0e866bc2acdb0f6e8d3f6b88a2f6",
+    "wof:geomhash":"ec5191df1af0af33b19918212b13dbdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.44476,
     44.43669000000001
 ],
-  "geometry": {"coordinates":[22.44476,44.43669000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.44476,44.43669],"type":"Point"}
 }

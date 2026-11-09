@@ -68,7 +68,7 @@
         "wk:page":"Draksin"
     },
     "wof:country":"RS",
-    "wof:geomhash":"78e0f690067c9d085096f1615071d3d2",
+    "wof:geomhash":"721e778cd584959ff2d6f0f77ff8c84d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     19.69819,
     43.99039000000001
 ],
-  "geometry": {"coordinates":[19.69819,43.99039000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.69819,43.99039],"type":"Point"}
 }

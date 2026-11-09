@@ -68,7 +68,7 @@
         "wk:page":"Rogljevo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"0e6d6e7013e402f73a9114ed21251d3c",
+    "wof:geomhash":"09e3b0b296b06c7a4d2f97427dff6063",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.56402000000001,
     44.12461
 ],
-  "geometry": {"coordinates":[22.56402000000001,44.12461],"type":"Point"}
+  "geometry": {"coordinates":[22.56402,44.12461],"type":"Point"}
 }

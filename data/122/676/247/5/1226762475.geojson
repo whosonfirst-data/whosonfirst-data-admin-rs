@@ -68,7 +68,7 @@
         "wk:page":"Greja%C4%8D"
     },
     "wof:country":"RS",
-    "wof:geomhash":"a6c4fd973ac390af491f19b0773532b6",
+    "wof:geomhash":"574a99fa102f75afb531d785377916eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.73283,
     43.41934000000001
 ],
-  "geometry": {"coordinates":[21.73283,43.41934000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.73283,43.41934],"type":"Point"}
 }

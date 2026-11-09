@@ -68,7 +68,7 @@
         "wk:page":"Nanomir"
     },
     "wof:country":"RS",
-    "wof:geomhash":"7a195b738818049b71430b0d310c41b0",
+    "wof:geomhash":"3f3b97d1962735766651bd1931588a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.13724,
     44.31247000000001
 ],
-  "geometry": {"coordinates":[20.13724,44.31247000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.13724,44.31247],"type":"Point"}
 }

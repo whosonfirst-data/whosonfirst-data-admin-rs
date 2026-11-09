@@ -65,7 +65,7 @@
         "wk:page":"Ragode%C5%A1"
     },
     "wof:country":"RS",
-    "wof:geomhash":"4728f4394939caaa86982fae8a279a51",
+    "wof:geomhash":"8e4ae33168b5a89d04723ada8516a0a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.50154,
     43.27184000000001
 ],
-  "geometry": {"coordinates":[22.50154,43.27184000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.50154,43.27184],"type":"Point"}
 }

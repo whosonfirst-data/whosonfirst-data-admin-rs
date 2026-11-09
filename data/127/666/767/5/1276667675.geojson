@@ -65,7 +65,7 @@
         "wk:page":"Paprati%C5%A1te"
     },
     "wof:country":"RS",
-    "wof:geomhash":"4315673056f1631803117efb3e803e41",
+    "wof:geomhash":"db397bbbd73fe9335cabf1e5a8fb4d17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     20.09697,
     43.91692000000001
 ],
-  "geometry": {"coordinates":[20.09697,43.91692000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.09697,43.91692],"type":"Point"}
 }

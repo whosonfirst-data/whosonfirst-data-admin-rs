@@ -45,7 +45,7 @@
     },
     "wof:country":"RS",
     "wof:created":1469054106,
-    "wof:geomhash":"87b7b1b835cb1629c2272822dcf4fd3b",
+    "wof:geomhash":"e125619906487fe5e36e392e14c7b1c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     19.4531475,
     45.230777
 ],
-  "geometry": {"coordinates":[19.4531475,45.230777],"type":"Point"}
+  "geometry": {"coordinates":[19.453148,45.230777],"type":"Point"}
 }

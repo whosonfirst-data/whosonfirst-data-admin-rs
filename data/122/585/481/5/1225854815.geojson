@@ -68,7 +68,7 @@
         "wk:page":"Preobra%C5%BEenje"
     },
     "wof:country":"RS",
-    "wof:geomhash":"4f6b0ae708dc4171388c9332f2bbd483",
+    "wof:geomhash":"22f7c89100a878c0f947cd2976d76284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.93611,
     42.46449000000001
 ],
-  "geometry": {"coordinates":[21.93611,42.46449000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.93611,42.46449],"type":"Point"}
 }

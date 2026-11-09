@@ -74,7 +74,7 @@
         "wk:page":"Vrban%2C_Serbia"
     },
     "wof:country":"RS",
-    "wof:geomhash":"897984f3b209e7d9242ea178222a458b",
+    "wof:geomhash":"623368679b23551edf7dabdc58f2d8ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     21.67392000000001,
     42.41241
 ],
-  "geometry": {"coordinates":[21.67392000000001,42.41241],"type":"Point"}
+  "geometry": {"coordinates":[21.67392,42.41241],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "gn:id":860909
     },
     "wof:country":"RS",
-    "wof:geomhash":"74b55a211e72792e4562922dd34bdbe9",
+    "wof:geomhash":"842f0cb3b210a6fd918e53fd79ac008e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     22.00213,
     42.57100000000001
 ],
-  "geometry": {"coordinates":[22.00213,42.57100000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.00213,42.571],"type":"Point"}
 }

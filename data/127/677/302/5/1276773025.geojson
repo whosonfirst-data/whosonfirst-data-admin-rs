@@ -62,7 +62,7 @@
         "wk:page":"Donja_Sabanta"
     },
     "wof:country":"RS",
-    "wof:geomhash":"6b84e07b10769203ec0da1bd120090b4",
+    "wof:geomhash":"15d08d695902ba0cafae3507a1fb33c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     20.96417000000001,
     43.95389
 ],
-  "geometry": {"coordinates":[20.96417000000001,43.95389],"type":"Point"}
+  "geometry": {"coordinates":[20.96417,43.95389],"type":"Point"}
 }

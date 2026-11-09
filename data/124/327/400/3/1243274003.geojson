@@ -65,7 +65,7 @@
         "wk:page":"Garevo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"20dee003f29d6077a3608005593d43ce",
+    "wof:geomhash":"84dc96309d9b01cbcb8638d945293c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.44575,
     44.60899000000001
 ],
-  "geometry": {"coordinates":[21.44575,44.60899000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.44575,44.60899],"type":"Point"}
 }

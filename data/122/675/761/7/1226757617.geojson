@@ -71,7 +71,7 @@
         "wk:page":"Rudenice"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d7fc7e4e1e3f62caaf55f5f0906e168c",
+    "wof:geomhash":"9366b0fd26ee5217a40123baf46b189e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.09361,
     43.51139000000001
 ],
-  "geometry": {"coordinates":[21.09361,43.51139000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.09361,43.51139],"type":"Point"}
 }

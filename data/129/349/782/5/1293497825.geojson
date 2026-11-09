@@ -68,7 +68,7 @@
         "wk:page":"Pridvorice"
     },
     "wof:country":"RS",
-    "wof:geomhash":"bb14d55410c675429e8e6219290f77f7",
+    "wof:geomhash":"2e3ee1e2eb661e8ca87be986c924abf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.90241,
     44.34079000000001
 ],
-  "geometry": {"coordinates":[20.90241,44.34079000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90241,44.34079],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Seljane"
     },
     "wof:country":"RS",
-    "wof:geomhash":"9282e5005e6fe4b351c76b228aadcaf7",
+    "wof:geomhash":"2531deee28ab6b5afc0425fe50e1cf50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     19.56556,
     43.37694000000001
 ],
-  "geometry": {"coordinates":[19.56556,43.37694000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.56556,43.37694],"type":"Point"}
 }

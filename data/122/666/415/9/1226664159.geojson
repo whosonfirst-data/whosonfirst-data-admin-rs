@@ -62,7 +62,7 @@
         "wk:page":"Mironi%C4%87"
     },
     "wof:country":"RS",
-    "wof:geomhash":"27b9625e8329a2800e6f8db6375ddd91",
+    "wof:geomhash":"ba913a5f709e59114103032e97759545",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     20.75762000000001,
     44.08788
 ],
-  "geometry": {"coordinates":[20.75762000000001,44.08788],"type":"Point"}
+  "geometry": {"coordinates":[20.75762,44.08788],"type":"Point"}
 }

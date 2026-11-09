@@ -64,7 +64,7 @@
         "wk:page":"Ladovica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"c4e1103c6221ec5163de46e1536b7d2c",
+    "wof:geomhash":"06d3641b94ccdc2a042a4cd8d760029b",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -87,5 +87,5 @@
     22.06562000000001,
     42.9378
 ],
-  "geometry": {"coordinates":[22.06562000000001,42.9378],"type":"Point"}
+  "geometry": {"coordinates":[22.06562,42.9378],"type":"Point"}
 }

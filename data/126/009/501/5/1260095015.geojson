@@ -72,7 +72,7 @@
         "wk:page":"Donje_Krnjino"
     },
     "wof:country":"RS",
-    "wof:geomhash":"1ded3fba0001d604c0e87f5257f490e7",
+    "wof:geomhash":"d0af09db5049d9021a108426cf513e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     22.41312000000001,
     43.10554000000001
 ],
-  "geometry": {"coordinates":[22.41312000000001,43.10554000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.41312,43.10554],"type":"Point"}
 }

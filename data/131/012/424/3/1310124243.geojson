@@ -62,7 +62,7 @@
         "wk:page":"Oplani%C4%87"
     },
     "wof:country":"RS",
-    "wof:geomhash":"8d4436718a62a5b23c0bf8ca06c67cf3",
+    "wof:geomhash":"89c643fae77d0543c31767983b4c5936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     20.67845,
     43.98634000000001
 ],
-  "geometry": {"coordinates":[20.67845,43.98634000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.67845,43.98634],"type":"Point"}
 }

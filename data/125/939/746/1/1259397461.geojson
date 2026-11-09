@@ -74,7 +74,7 @@
         "wk:page":"Donja_Zleginja"
     },
     "wof:country":"RS",
-    "wof:geomhash":"1d25bd3fbca742db0077ee24013011a8",
+    "wof:geomhash":"047c06feb1899e529603b32d953704a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     21.16944,
     43.45164000000001
 ],
-  "geometry": {"coordinates":[21.16944,43.45164000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.16944,43.45164],"type":"Point"}
 }

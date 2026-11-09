@@ -65,7 +65,7 @@
         "wk:page":"Malo_Ora%C5%A1je"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d6ab4bcb2d183806090dcb0eb6404ca3",
+    "wof:geomhash":"cb4157e02a54ac9ae4185aa8cf5d513d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     20.78548,
     44.56509000000001
 ],
-  "geometry": {"coordinates":[20.78548,44.56509000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.78548,44.56509],"type":"Point"}
 }

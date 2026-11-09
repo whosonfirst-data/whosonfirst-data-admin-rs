@@ -114,7 +114,7 @@
         "wk:page":"Bato%C4%8Dina"
     },
     "wof:country":"RS",
-    "wof:geomhash":"137b3b43e780c7c9fc078b6780e5047c",
+    "wof:geomhash":"9bae30bc2a8d2111d40ed0ca6e29f022",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,5 +141,5 @@
     21.08167000000001,
     44.15361
 ],
-  "geometry": {"coordinates":[21.08167000000001,44.15361],"type":"Point"}
+  "geometry": {"coordinates":[21.08167,44.15361],"type":"Point"}
 }

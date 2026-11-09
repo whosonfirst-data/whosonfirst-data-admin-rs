@@ -71,7 +71,7 @@
         "wk:page":"Zebince"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e6ea4dffef857cb064ed4dd27ed8bd22",
+    "wof:geomhash":"67886c73a9b84108fac738893494a64d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.03052000000001,
     42.76694000000001
 ],
-  "geometry": {"coordinates":[22.03052000000001,42.76694000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.03052,42.76694],"type":"Point"}
 }

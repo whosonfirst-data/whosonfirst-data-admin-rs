@@ -73,7 +73,7 @@
         "wk:page":"Stari_%C5%BDednik"
     },
     "wof:country":"RS",
-    "wof:geomhash":"52fc13acf29090dcf2878240363e810e",
+    "wof:geomhash":"e66b4cf4926d1daf86ab5fb80bc20c52",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -96,5 +96,5 @@
     19.63029,
     45.94864000000001
 ],
-  "geometry": {"coordinates":[19.63029,45.94864000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.63029,45.94864],"type":"Point"}
 }

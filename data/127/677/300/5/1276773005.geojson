@@ -71,7 +71,7 @@
         "wk:page":"Babotinac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"216bd8cf6553ef4edb34334ac1b4bf25",
+    "wof:geomhash":"e46b42bc54cbcfe3614356ed81f6425a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.51382000000001,
     43.32608
 ],
-  "geometry": {"coordinates":[21.51382000000001,43.32608],"type":"Point"}
+  "geometry": {"coordinates":[21.51382,43.32608],"type":"Point"}
 }

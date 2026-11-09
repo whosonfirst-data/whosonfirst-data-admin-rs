@@ -75,7 +75,7 @@
         "wk:page":"Zabrdnji_Toci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d9e8de1bebea55b6f580aada6372ac92",
+    "wof:geomhash":"0270d12d6adf858445158d18dc19768e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     19.5128,
     43.47434000000001
 ],
-  "geometry": {"coordinates":[19.5128,43.47434000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.5128,43.47434],"type":"Point"}
 }

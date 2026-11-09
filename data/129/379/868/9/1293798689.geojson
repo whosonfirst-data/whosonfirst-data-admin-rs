@@ -68,7 +68,7 @@
         "wk:page":"Mali_Jasenovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"667367b53eed148ca55b89a7ebbecd61",
+    "wof:geomhash":"6468337cdeb110a29ba7245bc9097adc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.44918,
     44.03507000000001
 ],
-  "geometry": {"coordinates":[22.44918,44.03507000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.44918,44.03507],"type":"Point"}
 }

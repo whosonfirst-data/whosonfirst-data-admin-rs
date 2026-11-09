@@ -47,7 +47,7 @@
         "wk:page":"Obre%C5%BE_%28Pe%C4%87inci%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d7cfeaa82ccc1329c70130135ce206ec",
+    "wof:geomhash":"30d8b28f08385ff088b5bb1dcb12164d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     19.97406,
     44.73674000000001
 ],
-  "geometry": {"coordinates":[19.97406,44.73674000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.97406,44.73674],"type":"Point"}
 }

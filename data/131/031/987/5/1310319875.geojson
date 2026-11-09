@@ -74,7 +74,7 @@
         "wk:page":"Donja_Otulja"
     },
     "wof:country":"RS",
-    "wof:geomhash":"debaa3b333889119ff0e4e66ea714c72",
+    "wof:geomhash":"7e76ab22d98be3a7b6664a9606055203",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     21.91959,
     42.47949000000001
 ],
-  "geometry": {"coordinates":[21.91959,42.47949000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.91959,42.47949],"type":"Point"}
 }

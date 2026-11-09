@@ -71,7 +71,7 @@
         "wk:page":"Ber%C4%8Dinovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"942b026078ca372cb7748e00c0a00f40",
+    "wof:geomhash":"9f80a74d7cecf42f20777bc1c5d1aea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.29864,
     43.58329000000001
 ],
-  "geometry": {"coordinates":[22.29864,43.58329000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.29864,43.58329],"type":"Point"}
 }

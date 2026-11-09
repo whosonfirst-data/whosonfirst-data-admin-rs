@@ -47,7 +47,7 @@
         "wk:page":"Lje%C5%A1nica_%28Ku%C4%8Devo%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"3db7aef3ee6bc3bf23bb04d3832e5c44",
+    "wof:geomhash":"5d2be6f102b62a94fff6a0a0720b78ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     21.59311,
     44.53657000000001
 ],
-  "geometry": {"coordinates":[21.59311,44.53657000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.59311,44.53657],"type":"Point"}
 }

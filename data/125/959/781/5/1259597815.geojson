@@ -71,7 +71,7 @@
         "wk:page":"Trupale"
     },
     "wof:country":"RS",
-    "wof:geomhash":"0f0b2584636da6606f6f2bb17bbbab4f",
+    "wof:geomhash":"7eac52192cd8cfbbdd4ec42236968d31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.79357000000001,
     43.35815
 ],
-  "geometry": {"coordinates":[21.79357000000001,43.35815],"type":"Point"}
+  "geometry": {"coordinates":[21.79357,43.35815],"type":"Point"}
 }

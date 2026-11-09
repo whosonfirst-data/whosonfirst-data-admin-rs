@@ -71,7 +71,7 @@
         "wk:page":"Klanica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"c5bb8325afead0ad4571bd37f7a1e907",
+    "wof:geomhash":"cc3b0d81d8ad5f6c3b254c8bcb5a9e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.01917000000001,
     44.32306
 ],
-  "geometry": {"coordinates":[20.01917000000001,44.32306],"type":"Point"}
+  "geometry": {"coordinates":[20.01917,44.32306],"type":"Point"}
 }

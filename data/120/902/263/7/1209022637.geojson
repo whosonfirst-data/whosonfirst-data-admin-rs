@@ -64,7 +64,7 @@
         "wk:page":"Kopriv%C5%A1tica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"2b1789e677b7d9cbb1348563bbb5c84f",
+    "wof:geomhash":"43ffcd69fac99b2832ad6c201c9817fc",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -87,5 +87,5 @@
     22.62052000000001,
     43.23493
 ],
-  "geometry": {"coordinates":[22.62052000000001,43.23493],"type":"Point"}
+  "geometry": {"coordinates":[22.62052,43.23493],"type":"Point"}
 }

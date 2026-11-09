@@ -71,7 +71,7 @@
         "wk:page":"Jasenovik"
     },
     "wof:country":"RS",
-    "wof:geomhash":"f6c0e47543db540da15b59ef0cdbe978",
+    "wof:geomhash":"6eefdba02764c91b4dcc45a17b68b957",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.02035,
     43.37524000000001
 ],
-  "geometry": {"coordinates":[22.02035,43.37524000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.02035,43.37524],"type":"Point"}
 }

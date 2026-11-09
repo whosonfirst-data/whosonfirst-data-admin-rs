@@ -54,7 +54,7 @@
         "wk:page":"Rospi_%C4%86uprija"
     },
     "wof:country":"RS",
-    "wof:geomhash":"5828477f4192fc1b0bff88c07b36f5f9",
+    "wof:geomhash":"5aa047f95ab37ea5c8ed174466ed455a",
     "wof:hierarchy":[
         {
             "borough_id":1393843453,
@@ -85,5 +85,5 @@
     20.52667000000001,
     44.81806
 ],
-  "geometry": {"coordinates":[20.52667000000001,44.81806],"type":"Point"}
+  "geometry": {"coordinates":[20.52667,44.81806],"type":"Point"}
 }

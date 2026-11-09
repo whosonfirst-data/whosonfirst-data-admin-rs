@@ -68,7 +68,7 @@
         "wk:page":"Du%C5%A1mani%C4%87i"
     },
     "wof:country":"RS",
-    "wof:geomhash":"81c67369bd5dd4e0403432d53a685d6e",
+    "wof:geomhash":"8551be2d2a53e1fdce079d055bc20e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     19.62473,
     43.39299000000001
 ],
-  "geometry": {"coordinates":[19.62473,43.39299000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.62473,43.39299],"type":"Point"}
 }

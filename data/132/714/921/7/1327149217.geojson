@@ -71,7 +71,7 @@
         "wk:page":"Bo%C5%BEica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"9441370422376f3f29bb0081c30f852c",
+    "wof:geomhash":"7498ac193a82bbed077237a47059dc29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.40352,
     42.61512000000001
 ],
-  "geometry": {"coordinates":[22.40352,42.61512000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.40352,42.61512],"type":"Point"}
 }

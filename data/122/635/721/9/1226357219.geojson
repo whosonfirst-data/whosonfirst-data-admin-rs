@@ -65,7 +65,7 @@
         "wk:page":"Vratare"
     },
     "wof:country":"RS",
-    "wof:geomhash":"f60269d49d00f0ce9f0e44092ebd3357",
+    "wof:geomhash":"c30ca9e74465a4a7d850bc131286b0a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.30965,
     43.66934000000001
 ],
-  "geometry": {"coordinates":[21.30965,43.66934000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.30965,43.66934],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Baraljevac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"b5c58ad84c607889ce87075edeeffb39",
+    "wof:geomhash":"de54c103550f99d830fd45a023bcf21c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.89557000000001,
     42.37963
 ],
-  "geometry": {"coordinates":[21.89557000000001,42.37963],"type":"Point"}
+  "geometry": {"coordinates":[21.89557,42.37963],"type":"Point"}
 }

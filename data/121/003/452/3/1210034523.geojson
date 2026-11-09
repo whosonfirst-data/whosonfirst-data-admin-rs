@@ -65,7 +65,7 @@
         "wk:page":"Crnugovi%C4%87i"
     },
     "wof:country":"RS",
-    "wof:geomhash":"82da71f20f0b89374a7a803fa20ccca2",
+    "wof:geomhash":"7e991010a262e1c94945ba6dcde7e629",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     19.39332000000001,
     43.53694
 ],
-  "geometry": {"coordinates":[19.39332000000001,43.53694],"type":"Point"}
+  "geometry": {"coordinates":[19.39332,43.53694],"type":"Point"}
 }

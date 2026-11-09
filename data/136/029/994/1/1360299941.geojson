@@ -71,7 +71,7 @@
         "wk:page":"Darkovce"
     },
     "wof:country":"RS",
-    "wof:geomhash":"576c70ec7654a930a7a35ef26c050b2c",
+    "wof:geomhash":"4cfed427bd24bb7780e62bf21ea59b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.34565,
     42.87954000000001
 ],
-  "geometry": {"coordinates":[22.34565,42.87954000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34565,42.87954],"type":"Point"}
 }

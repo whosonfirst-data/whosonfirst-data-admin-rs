@@ -71,7 +71,7 @@
         "wk:page":"Tibu%C5%BEde"
     },
     "wof:country":"RS",
-    "wof:geomhash":"ba9129671e0353a1c937c9a6cee7bc49",
+    "wof:geomhash":"7853afab5b9598907263cb2d724d05ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.96737000000001,
     42.50819
 ],
-  "geometry": {"coordinates":[21.96737000000001,42.50819],"type":"Point"}
+  "geometry": {"coordinates":[21.96737,42.50819],"type":"Point"}
 }

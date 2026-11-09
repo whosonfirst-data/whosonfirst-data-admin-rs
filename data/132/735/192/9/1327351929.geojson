@@ -47,7 +47,7 @@
         "wk:page":"Bukovica_%28Kraljevo%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"f8fcd87735500a81a9533b3a388111e7",
+    "wof:geomhash":"25fed805ed71d671adab3a59bd5b4de5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     20.53812000000001,
     43.72919
 ],
-  "geometry": {"coordinates":[20.53812000000001,43.72919],"type":"Point"}
+  "geometry": {"coordinates":[20.53812,43.72919],"type":"Point"}
 }

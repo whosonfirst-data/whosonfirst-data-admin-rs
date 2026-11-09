@@ -68,7 +68,7 @@
         "wk:page":"Gornje_Crnatovo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"cdcba6ca0769a66243f46b30694d0113",
+    "wof:geomhash":"7110fa65c3a5783f96bc3e9e2d39ab41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.75697000000001,
     43.14581
 ],
-  "geometry": {"coordinates":[21.75697000000001,43.14581],"type":"Point"}
+  "geometry": {"coordinates":[21.75697,43.14581],"type":"Point"}
 }

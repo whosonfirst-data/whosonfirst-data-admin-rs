@@ -68,7 +68,7 @@
         "wk:page":"Dljin"
     },
     "wof:country":"RS",
-    "wof:geomhash":"be41505805d73677da1b629f909da183",
+    "wof:geomhash":"dbe2a4c73bea63ca1b960257be474c47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.13826,
     43.88717000000001
 ],
-  "geometry": {"coordinates":[20.13826,43.88717000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.13826,43.88717],"type":"Point"}
 }

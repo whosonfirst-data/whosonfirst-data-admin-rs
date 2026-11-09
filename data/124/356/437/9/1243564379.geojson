@@ -71,7 +71,7 @@
         "wk:page":"Milatkovi%C4%87e"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e350df5e67ae964355059062c133580c",
+    "wof:geomhash":"c52936c319678dd449083fc7ad655bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.56872000000001,
     43.2377
 ],
-  "geometry": {"coordinates":[20.56872000000001,43.2377],"type":"Point"}
+  "geometry": {"coordinates":[20.56872,43.2377],"type":"Point"}
 }

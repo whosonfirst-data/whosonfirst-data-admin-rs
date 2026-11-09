@@ -71,7 +71,7 @@
         "wk:page":"Kru%C5%A1eva_Glava"
     },
     "wof:country":"RS",
-    "wof:geomhash":"661023db58725eda0f9b687c4e784a63",
+    "wof:geomhash":"14ad015edb7aac35dd62854f78c55e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.90702000000001,
     42.71703
 ],
-  "geometry": {"coordinates":[21.90702000000001,42.71703],"type":"Point"}
+  "geometry": {"coordinates":[21.90702,42.71703],"type":"Point"}
 }

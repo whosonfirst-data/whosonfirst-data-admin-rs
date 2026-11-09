@@ -74,7 +74,7 @@
         "wk:page":"Bogo%C5%A1evo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"54269beb0388cac1c33b042b7af2378c",
+    "wof:geomhash":"402f56d4cef6245097dd6bde1368351c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     22.07615,
     42.61199000000001
 ],
-  "geometry": {"coordinates":[22.07615,42.61199000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.07615,42.61199],"type":"Point"}
 }

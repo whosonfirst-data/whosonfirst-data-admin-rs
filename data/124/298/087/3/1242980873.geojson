@@ -65,7 +65,7 @@
         "wk:page":"Ljutova_%28Kur%C5%A1umlija%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e32fc47c7410b79e525077e9f5f2b9f8",
+    "wof:geomhash":"767b9b7be6e019e7d80b5cfae834a6fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.0938,
     43.18297000000001
 ],
-  "geometry": {"coordinates":[21.0938,43.18297000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.0938,43.18297],"type":"Point"}
 }

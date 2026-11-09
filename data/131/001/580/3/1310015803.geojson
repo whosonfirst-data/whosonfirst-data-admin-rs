@@ -68,7 +68,7 @@
         "wk:page":"Zukve"
     },
     "wof:country":"RS",
-    "wof:geomhash":"f86c64e6159c892d4b0b96b79b0e52ca",
+    "wof:geomhash":"4c9f255a47ad2ab5a0b5a7887809c6be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     19.85267,
     44.47219000000001
 ],
-  "geometry": {"coordinates":[19.85267,44.47219000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.85267,44.47219],"type":"Point"}
 }

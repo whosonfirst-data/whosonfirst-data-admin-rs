@@ -86,7 +86,7 @@
         "wk:page":"Gunaro%C5%A1"
     },
     "wof:country":"RS",
-    "wof:geomhash":"4fcb23d935e749109f9a630446f616fb",
+    "wof:geomhash":"70e2995aeb9133bf2c0eef15aa0cfaed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,5 +113,5 @@
     19.82782000000001,
     45.76029000000001
 ],
-  "geometry": {"coordinates":[19.82782000000001,45.76029000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.82782,45.76029],"type":"Point"}
 }

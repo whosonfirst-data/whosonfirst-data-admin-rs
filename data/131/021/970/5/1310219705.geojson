@@ -65,7 +65,7 @@
         "wk:page":"Razgojna"
     },
     "wof:country":"RS",
-    "wof:geomhash":"01df0bc2f71a7fbd32917e90b47a61a0",
+    "wof:geomhash":"abe729f6aeea2a9037ec24faf58be5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.95502,
     43.11709000000001
 ],
-  "geometry": {"coordinates":[21.95502,43.11709000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.95502,43.11709],"type":"Point"}
 }

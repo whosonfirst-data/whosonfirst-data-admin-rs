@@ -64,7 +64,7 @@
         "wk:page":"Milav%C4%8Di%C4%87i"
     },
     "wof:country":"RS",
-    "wof:geomhash":"55311184d51cfee5a4550ed6bda85a48",
+    "wof:geomhash":"7ce154cc966632f51c123f92197c67e2",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -87,5 +87,5 @@
     20.79,
     43.75944000000001
 ],
-  "geometry": {"coordinates":[20.79,43.75944000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.79,43.75944],"type":"Point"}
 }

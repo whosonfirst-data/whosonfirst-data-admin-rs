@@ -79,7 +79,7 @@
         "wk:page":"Merdare"
     },
     "wof:country":"RS",
-    "wof:geomhash":"75d7eed6d0589cbc095f63e75a98f7ac",
+    "wof:geomhash":"c0b1feec5acb634c0b774ad5b4287a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     21.26297000000001,
     42.92914
 ],
-  "geometry": {"coordinates":[21.26297000000001,42.92914],"type":"Point"}
+  "geometry": {"coordinates":[21.26297,42.92914],"type":"Point"}
 }

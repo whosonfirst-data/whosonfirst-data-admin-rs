@@ -65,7 +65,7 @@
         "wk:page":"Karan_%28U%C5%BEice%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"20643fcc66d74c6ed58d2fe7a84f026f",
+    "wof:geomhash":"6d84d4eb01ee34b422cf10a3f070d90a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     19.89482000000001,
     43.91808
 ],
-  "geometry": {"coordinates":[19.89482000000001,43.91808],"type":"Point"}
+  "geometry": {"coordinates":[19.89482,43.91808],"type":"Point"}
 }

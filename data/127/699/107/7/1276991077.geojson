@@ -77,7 +77,7 @@
         "wk:page":"Velika_Ivan%C4%8Da"
     },
     "wof:country":"RS",
-    "wof:geomhash":"c2a168e1077e63396a382730c73de3be",
+    "wof:geomhash":"0531fec06fc8e5148653ef088a0a5dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     20.58028,
     44.42639000000001
 ],
-  "geometry": {"coordinates":[20.58028,44.42639000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.58028,44.42639],"type":"Point"}
 }

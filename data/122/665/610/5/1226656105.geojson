@@ -53,7 +53,7 @@
         "wk:page":"Glogonjski_Rit"
     },
     "wof:country":"RS",
-    "wof:geomhash":"6307e429803ab8d5e595c50c5256a59a",
+    "wof:geomhash":"fd2f14713718eb61a81eec4c9a1deb45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     20.47947000000001,
     44.93587
 ],
-  "geometry": {"coordinates":[20.47947000000001,44.93587],"type":"Point"}
+  "geometry": {"coordinates":[20.47947,44.93587],"type":"Point"}
 }

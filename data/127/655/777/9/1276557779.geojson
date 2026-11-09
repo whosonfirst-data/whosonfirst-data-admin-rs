@@ -62,7 +62,7 @@
         "wk:page":"Aleksine"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e234764cdd96905fa71027787fb5d96f",
+    "wof:geomhash":"5093b455a0c9dab30566794a12e3d6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.29035,
     42.97792000000001
 ],
-  "geometry": {"coordinates":[22.29035,42.97792000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.29035,42.97792],"type":"Point"}
 }

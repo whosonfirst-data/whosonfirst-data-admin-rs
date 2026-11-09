@@ -68,7 +68,7 @@
         "wk:page":"Pomija%C4%8Da"
     },
     "wof:country":"RS",
-    "wof:geomhash":"241b610fc509cce94803fd52c10a59bb",
+    "wof:geomhash":"63ab903cbd865f36413e525f10f58361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     19.54981,
     44.52972000000001
 ],
-  "geometry": {"coordinates":[19.54981,44.52972000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.54981,44.52972],"type":"Point"}
 }

@@ -74,7 +74,7 @@
         "wk:page":"%C5%A0atrinci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"8e5991aee75200e0a73e6117e42070db",
+    "wof:geomhash":"20328ae8dddd1659401993a060173938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     19.9225,
     45.06247000000001
 ],
-  "geometry": {"coordinates":[19.9225,45.06247000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.9225,45.06247],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Ple%C5%A1in"
     },
     "wof:country":"RS",
-    "wof:geomhash":"4ece0feead5b1637e3abd10a0fb61ed8",
+    "wof:geomhash":"1b850d2bf28a21703ef95876c67ee89d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.4384,
     43.30459000000001
 ],
-  "geometry": {"coordinates":[20.4384,43.30459000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.4384,43.30459],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Gornja_Studena"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d4b4bf6d56cc43b057e0ad730e59ee8b",
+    "wof:geomhash":"7e723c1631654b6b150b4f2a6fec0542",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.0966,
     43.25624000000001
 ],
-  "geometry": {"coordinates":[22.0966,43.25624000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.0966,43.25624],"type":"Point"}
 }

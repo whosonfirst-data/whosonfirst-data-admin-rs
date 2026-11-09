@@ -71,7 +71,7 @@
         "wk:page":"Podrimce"
     },
     "wof:country":"RS",
-    "wof:geomhash":"828d8204ba3acdde8be30f1917e912f4",
+    "wof:geomhash":"4d9560c258b2d95020032b0fb880fb36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.86432000000001,
     43.05329
 ],
-  "geometry": {"coordinates":[21.86432000000001,43.05329],"type":"Point"}
+  "geometry": {"coordinates":[21.86432,43.05329],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Stani%C4%8Denje"
     },
     "wof:country":"RS",
-    "wof:geomhash":"a9633112444d4732a41a752be2e32404",
+    "wof:geomhash":"e70f7f7775cdef9843e60a504893fcb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.50896,
     43.20399999999999
 ],
-  "geometry": {"coordinates":[22.50896,43.20399999999999],"type":"Point"}
+  "geometry": {"coordinates":[22.50896,43.204],"type":"Point"}
 }

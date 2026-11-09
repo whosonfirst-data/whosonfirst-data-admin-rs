@@ -65,7 +65,7 @@
         "wk:page":"Bo%C5%BEinovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"b1232e4a881440ab8014329faa547d58",
+    "wof:geomhash":"1eb4e4e9087ce3aefcd8c0668a5b0a86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.04906,
     43.53384000000001
 ],
-  "geometry": {"coordinates":[22.04906,43.53384000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.04906,43.53384],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Donja_Dobrinja"
     },
     "wof:country":"RS",
-    "wof:geomhash":"8ef15df8af931b17fa9f7507b16e2405",
+    "wof:geomhash":"79698700bfe10aacb8a3ead2c9faf458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.06231,
     43.92274000000001
 ],
-  "geometry": {"coordinates":[20.06231,43.92274000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.06231,43.92274],"type":"Point"}
 }

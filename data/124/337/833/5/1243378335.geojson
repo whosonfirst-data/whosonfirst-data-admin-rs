@@ -68,7 +68,7 @@
         "wk:page":"%C4%8Cungula"
     },
     "wof:country":"RS",
-    "wof:geomhash":"77f46abe69ec33d4ab5d27ccb24f74f6",
+    "wof:geomhash":"47008b8165f54efd9fd3f52d85fea865",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.30877000000001,
     43.24606
 ],
-  "geometry": {"coordinates":[21.30877000000001,43.24606],"type":"Point"}
+  "geometry": {"coordinates":[21.30877,43.24606],"type":"Point"}
 }

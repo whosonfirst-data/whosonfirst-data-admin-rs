@@ -71,7 +71,7 @@
         "wk:page":"Balta_Berilovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"7163f36394f1943bac2868ed1c3c0534",
+    "wof:geomhash":"8de42514f4ebe93703c63725705b2d90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.48397000000001,
     43.39356
 ],
-  "geometry": {"coordinates":[22.48397000000001,43.39356],"type":"Point"}
+  "geometry": {"coordinates":[22.48397,43.39356],"type":"Point"}
 }

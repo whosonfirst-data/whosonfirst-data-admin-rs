@@ -71,7 +71,7 @@
         "wk:page":"Mala_Remeta"
     },
     "wof:country":"RS",
-    "wof:geomhash":"534b612c217697fcef1b176eb70148d3",
+    "wof:geomhash":"26809605818a514db579d5bcf77a9cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     19.74556,
     45.10639000000001
 ],
-  "geometry": {"coordinates":[19.74556,45.10639000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.74556,45.10639],"type":"Point"}
 }

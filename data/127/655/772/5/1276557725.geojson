@@ -68,7 +68,7 @@
         "wk:page":"Rujnik"
     },
     "wof:country":"RS",
-    "wof:geomhash":"4dbd1e3e1861dc5863e5b2c7451dc085",
+    "wof:geomhash":"0a3e16cc2ea1653a85fb767eb8256cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.8825,
     43.39102000000001
 ],
-  "geometry": {"coordinates":[21.8825,43.39102000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.8825,43.39102],"type":"Point"}
 }

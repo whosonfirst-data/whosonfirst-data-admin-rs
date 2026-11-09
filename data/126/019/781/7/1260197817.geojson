@@ -72,7 +72,7 @@
         "wk:page":"Drami%C4%87e"
     },
     "wof:country":"RS",
-    "wof:geomhash":"ff883917e9278f78a1ab1eb4cb0dea3d",
+    "wof:geomhash":"1fcead23604dce2ebd394b831dbb2a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     20.3925,
     43.26139000000001
 ],
-  "geometry": {"coordinates":[20.3925,43.26139000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.3925,43.26139],"type":"Point"}
 }

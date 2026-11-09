@@ -68,7 +68,7 @@
         "wk:page":"Pro%C5%A1tinac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"9d5280dcadd0be5b80768375bd8d33ba",
+    "wof:geomhash":"611f01ecfe0f4d1bafb9735439fe0633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.31947000000001,
     44.24224
 ],
-  "geometry": {"coordinates":[21.31947000000001,44.24224],"type":"Point"}
+  "geometry": {"coordinates":[21.31947,44.24224],"type":"Point"}
 }

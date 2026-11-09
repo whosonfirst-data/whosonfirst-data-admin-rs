@@ -62,7 +62,7 @@
         "wk:page":"Trnjane_%28Aleksinac%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"96955685f3afa3a7d8eb41468e6fbf47",
+    "wof:geomhash":"341792f7b8687928cbc8e1cb726c146a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     21.63347000000001,
     43.53837
 ],
-  "geometry": {"coordinates":[21.63347000000001,43.53837],"type":"Point"}
+  "geometry": {"coordinates":[21.63347,43.53837],"type":"Point"}
 }

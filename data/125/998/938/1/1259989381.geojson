@@ -71,7 +71,7 @@
         "wk:page":"Lopatanj"
     },
     "wof:country":"RS",
-    "wof:geomhash":"42f8193ab398536cc67d285d24f27869",
+    "wof:geomhash":"86beb618b0068c34994089139db924fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     19.59609,
     44.31809000000001
 ],
-  "geometry": {"coordinates":[19.59609,44.31809000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.59609,44.31809],"type":"Point"}
 }

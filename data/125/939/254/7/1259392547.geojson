@@ -71,7 +71,7 @@
         "wk:page":"Toplac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"412a38c47269f0f45e33a548137ad235",
+    "wof:geomhash":"2cbd68d9e535cec7b73217dfb5295725",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.96483,
     42.54114000000001
 ],
-  "geometry": {"coordinates":[21.96483,42.54114000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.96483,42.54114],"type":"Point"}
 }

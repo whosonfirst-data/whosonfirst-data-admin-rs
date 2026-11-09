@@ -65,7 +65,7 @@
         "wk:page":"Bresno_Polje"
     },
     "wof:country":"RS",
-    "wof:geomhash":"675f6b0c0c9fe659f8a30c9a27ac1436",
+    "wof:geomhash":"808386f6fc10df39d432f0e8696d9c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.17098,
     43.57899000000001
 ],
-  "geometry": {"coordinates":[21.17098,43.57899000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.17098,43.57899],"type":"Point"}
 }

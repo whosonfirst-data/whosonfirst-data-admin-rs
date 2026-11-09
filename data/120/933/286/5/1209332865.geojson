@@ -70,7 +70,7 @@
         "wk:page":"Spance"
     },
     "wof:country":"RS",
-    "wof:geomhash":"ff19bcffb300d8b0f75fbb3d591385ea",
+    "wof:geomhash":"fc32613f8916173145d1e5d26013e80c",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -93,5 +93,5 @@
     21.26879,
     43.19889000000001
 ],
-  "geometry": {"coordinates":[21.26879,43.19889000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.26879,43.19889],"type":"Point"}
 }

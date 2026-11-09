@@ -48,7 +48,7 @@
         "wk:page":"Kaludra"
     },
     "wof:country":"RS",
-    "wof:geomhash":"3ab32304cd229fff8cd1ec1373d62d13",
+    "wof:geomhash":"99612a3b3cb8aacb0f68bddfdc206f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     21.06463,
     43.76779000000001
 ],
-  "geometry": {"coordinates":[21.06463,43.76779000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.06463,43.76779],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "gn:id":836470
     },
     "wof:country":"RS",
-    "wof:geomhash":"c72e68580bb7d34e34840ff92571dff5",
+    "wof:geomhash":"a7cabcf0f7125f27a39a7b8e8b73f055",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -65,5 +65,5 @@
     20.23857000000001,
     43.62206
 ],
-  "geometry": {"coordinates":[20.23857000000001,43.62206],"type":"Point"}
+  "geometry": {"coordinates":[20.23857,43.62206],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Cvetanovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"150179aaaa3176a5079a26452c58c3a8",
+    "wof:geomhash":"9d719a0bd249932466d138eab9cc3527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.2574,
     44.24704000000001
 ],
-  "geometry": {"coordinates":[20.2574,44.24704000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.2574,44.24704],"type":"Point"}
 }

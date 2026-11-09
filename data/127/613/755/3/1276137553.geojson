@@ -68,7 +68,7 @@
         "wk:page":"Kalimani%C4%87i"
     },
     "wof:country":"RS",
-    "wof:geomhash":"6d8ec4bc4831a0be31644556ea3813b7",
+    "wof:geomhash":"f81bc2ffa61ed36d06152a8de3d78ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.40618,
     44.07814000000001
 ],
-  "geometry": {"coordinates":[20.40618,44.07814000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.40618,44.07814],"type":"Point"}
 }

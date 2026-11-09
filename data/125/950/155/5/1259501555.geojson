@@ -65,7 +65,7 @@
         "wk:page":"Stopanja"
     },
     "wof:country":"RS",
-    "wof:geomhash":"652ee66e0e537bcaa3da3c89d48ae2c7",
+    "wof:geomhash":"b729b0c0024c6811a776427a933943a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.15017000000001,
     43.58022
 ],
-  "geometry": {"coordinates":[21.15017000000001,43.58022],"type":"Point"}
+  "geometry": {"coordinates":[21.15017,43.58022],"type":"Point"}
 }

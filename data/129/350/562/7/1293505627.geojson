@@ -74,7 +74,7 @@
         "wk:page":"Sirakovo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"ab4d7f3098b119fd5bddd96d4a2ebd6b",
+    "wof:geomhash":"3c30ba5f5637305d9dd414909d46e74d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     21.34642,
     44.66784000000001
 ],
-  "geometry": {"coordinates":[21.34642,44.66784000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.34642,44.66784],"type":"Point"}
 }

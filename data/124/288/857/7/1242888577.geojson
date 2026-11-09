@@ -65,7 +65,7 @@
         "wk:page":"Skrobnica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"0e230ccbf558565afa5bed48039eb1b0",
+    "wof:geomhash":"eaceeb3d59e5faee588a77772a90e4ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.05963,
     43.57364000000001
 ],
-  "geometry": {"coordinates":[22.05963,43.57364000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.05963,43.57364],"type":"Point"}
 }

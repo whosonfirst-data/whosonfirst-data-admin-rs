@@ -82,7 +82,7 @@
         "wk:page":"Omoljica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d09d4874d338bc2c27f84043874bfc27",
+    "wof:geomhash":"f9d60a7463ea1aee59983349b0f9b42d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,5 +109,5 @@
     20.73407000000001,
     44.75892
 ],
-  "geometry": {"coordinates":[20.73407000000001,44.75892],"type":"Point"}
+  "geometry": {"coordinates":[20.73407,44.75892],"type":"Point"}
 }

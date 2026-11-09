@@ -74,7 +74,7 @@
         "wk:page":"Sukovo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"8304b2c2ec21bc7eda96736a4508d0c8",
+    "wof:geomhash":"bccb776706163467e0d2f09d74dfabec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     22.64695,
     43.04989000000001
 ],
-  "geometry": {"coordinates":[22.64695,43.04989000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.64695,43.04989],"type":"Point"}
 }

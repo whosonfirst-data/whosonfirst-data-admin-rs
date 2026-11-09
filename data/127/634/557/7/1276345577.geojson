@@ -62,7 +62,7 @@
         "wk:page":"Mali_%C5%A0enj"
     },
     "wof:country":"RS",
-    "wof:geomhash":"82d5d994fd9c5640d40751b47e9175d8",
+    "wof:geomhash":"fb84530329728ed084281183319d9a49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     20.78662000000001,
     44.10705
 ],
-  "geometry": {"coordinates":[20.78662000000001,44.10705],"type":"Point"}
+  "geometry": {"coordinates":[20.78662,44.10705],"type":"Point"}
 }

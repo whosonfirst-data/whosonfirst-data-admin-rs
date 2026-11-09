@@ -66,7 +66,7 @@
         "wk:page":"Bani%C4%8Dina"
     },
     "wof:country":"RS",
-    "wof:geomhash":"cbaf0d0371f65024fa4e825d920812c6",
+    "wof:geomhash":"e35f1e12e0efd66b8283e1f71ce14451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     20.92962,
     44.29199000000001
 ],
-  "geometry": {"coordinates":[20.92962,44.29199000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.92962,44.29199],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Danjino_Selo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"97e41de7653e2e52837ffd51a3ee264d",
+    "wof:geomhash":"f649ed8d21cdf72edf5b5f43f0c79a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.18149,
     42.73934000000001
 ],
-  "geometry": {"coordinates":[22.18149,42.73934000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.18149,42.73934],"type":"Point"}
 }

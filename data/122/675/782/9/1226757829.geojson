@@ -68,7 +68,7 @@
         "wk:page":"Donje_Vlase"
     },
     "wof:country":"RS",
-    "wof:geomhash":"68b7f30d7c1dfdfc9a5ddf8586992cf9",
+    "wof:geomhash":"43747d682774d507a6a9bc102865067f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.91165,
     43.25709000000001
 ],
-  "geometry": {"coordinates":[21.91165,43.25709000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.91165,43.25709],"type":"Point"}
 }

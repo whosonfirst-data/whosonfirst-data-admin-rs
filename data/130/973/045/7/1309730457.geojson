@@ -47,7 +47,7 @@
         "wk:page":"Mitrovac%2C_Serbia"
     },
     "wof:country":"RS",
-    "wof:geomhash":"2695ee74ce7d932133f3cbdf0b74e859",
+    "wof:geomhash":"eeaeec4c22115849caea66ee554790cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     19.4237,
     43.92149000000001
 ],
-  "geometry": {"coordinates":[19.4237,43.92149000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.4237,43.92149],"type":"Point"}
 }

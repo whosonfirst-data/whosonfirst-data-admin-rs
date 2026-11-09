@@ -74,7 +74,7 @@
         "wk:page":"La%C4%87isled"
     },
     "wof:country":"RS",
-    "wof:geomhash":"748916cbd136f261d2a2ad2d055d0d33",
+    "wof:geomhash":"87a6dcb0d993cb862cb7564c3e12856a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     21.16328,
     43.49800000000001
 ],
-  "geometry": {"coordinates":[21.16328,43.49800000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.16328,43.498],"type":"Point"}
 }

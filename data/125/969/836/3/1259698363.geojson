@@ -65,7 +65,7 @@
         "wk:page":"Izatovci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"0f8be49917a7b6d859614c10edf67085",
+    "wof:geomhash":"b40cdb55c2d40b28e0998109bab6fd58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.88406,
     43.11904000000001
 ],
-  "geometry": {"coordinates":[22.88406,43.11904000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.88406,43.11904],"type":"Point"}
 }

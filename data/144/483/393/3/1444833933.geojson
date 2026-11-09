@@ -43,7 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"RS",
-    "wof:geomhash":"4a7e3b0fbfa980031b24219890e5bf38",
+    "wof:geomhash":"d653c00554500028e2246a6a606d053f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     20.40442792913118,
     44.99972460958508
 ],
-  "geometry": {"coordinates":[20.40442792913118,44.99972460958508],"type":"Point"}
+  "geometry": {"coordinates":[20.404428,44.999725],"type":"Point"}
 }

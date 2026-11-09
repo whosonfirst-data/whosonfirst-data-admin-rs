@@ -74,7 +74,7 @@
         "wk:page":"Kovanluk"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e7b173a7ad07cb133cf5dc6be828c26a",
+    "wof:geomhash":"88d751e49d89693dfbc01206e43bc196",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     20.70559,
     43.70549000000001
 ],
-  "geometry": {"coordinates":[20.70559,43.70549000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.70559,43.70549],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Kne%C5%BEevac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"b81a41f4ee88078be65dc070142cb8bf",
+    "wof:geomhash":"c85237b7ecd912acdce700d26fedd132",
     "wof:hierarchy":[
         {
             "borough_id":1393843447,
@@ -88,5 +88,5 @@
     20.42692000000001,
     44.73273
 ],
-  "geometry": {"coordinates":[20.42692000000001,44.73273],"type":"Point"}
+  "geometry": {"coordinates":[20.42692,44.73273],"type":"Point"}
 }

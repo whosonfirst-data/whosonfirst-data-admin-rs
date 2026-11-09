@@ -71,7 +71,7 @@
         "wk:page":"Trpeza"
     },
     "wof:country":"RS",
-    "wof:geomhash":"6129c98c3bdaff5d5ee6606f00fb7fb9",
+    "wof:geomhash":"1198879e2e88bfef26b9ed13cab1e863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.35635,
     42.90629000000001
 ],
-  "geometry": {"coordinates":[21.35635,42.90629000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.35635,42.90629],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Jug_Bogdanovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"7192b537ceced922f99ef013eb4db108",
+    "wof:geomhash":"39c6e4832e817c267d3076f43cae3ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.65188,
     43.26289000000001
 ],
-  "geometry": {"coordinates":[21.65188,43.26289000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.65188,43.26289],"type":"Point"}
 }

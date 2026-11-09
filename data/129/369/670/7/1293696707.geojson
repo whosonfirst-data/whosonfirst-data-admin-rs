@@ -65,7 +65,7 @@
         "wk:page":"Donje_Komarice"
     },
     "wof:country":"RS",
-    "wof:geomhash":"02d49fc9e8e6cdd6c7f85cddeb2d829e",
+    "wof:geomhash":"ce21fc128a2b83219d292b13cacdb9e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.06337000000001,
     44.05146
 ],
-  "geometry": {"coordinates":[21.06337000000001,44.05146],"type":"Point"}
+  "geometry": {"coordinates":[21.06337,44.05146],"type":"Point"}
 }

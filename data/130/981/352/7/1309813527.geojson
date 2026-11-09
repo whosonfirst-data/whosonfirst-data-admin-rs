@@ -68,7 +68,7 @@
         "wk:page":"Makce"
     },
     "wof:country":"RS",
-    "wof:geomhash":"65c156913a904ae04f7376629a2bedc0",
+    "wof:geomhash":"50dfc76b733cd72da1cf9e95e48b1caa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.46652000000001,
     44.57702000000001
 ],
-  "geometry": {"coordinates":[21.46652000000001,44.57702000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.46652,44.57702],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Pri%C4%8Devi%C4%87"
     },
     "wof:country":"RS",
-    "wof:geomhash":"174093761a60180e2e6c60ff285d88fd",
+    "wof:geomhash":"9ff26fe52ebfe98759cfe9177bb26183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     19.76889,
     44.27972000000001
 ],
-  "geometry": {"coordinates":[19.76889,44.27972000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.76889,44.27972],"type":"Point"}
 }

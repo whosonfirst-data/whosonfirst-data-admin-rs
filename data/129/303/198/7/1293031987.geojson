@@ -66,7 +66,7 @@
         "wk:page":"Roanda"
     },
     "wof:country":"RS",
-    "wof:geomhash":"fb331ecca68c4044501181ddc0631194",
+    "wof:geomhash":"40cc783802520b74d0d1585a028f8b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.37812000000001,
     44.1721
 ],
-  "geometry": {"coordinates":[21.37812000000001,44.1721],"type":"Point"}
+  "geometry": {"coordinates":[21.37812,44.1721],"type":"Point"}
 }

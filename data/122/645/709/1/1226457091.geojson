@@ -74,7 +74,7 @@
         "wk:page":"Beoci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"91b62b21c5b0e10c1197547c2c0b068a",
+    "wof:geomhash":"7fc53abf29ca8dae3914eca4c8cee8a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     20.62352000000001,
     43.33279
 ],
-  "geometry": {"coordinates":[20.62352000000001,43.33279],"type":"Point"}
+  "geometry": {"coordinates":[20.62352,43.33279],"type":"Point"}
 }

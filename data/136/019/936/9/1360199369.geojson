@@ -62,7 +62,7 @@
         "wk:page":"Donja_Kravarica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"cf740334384ea955bfca833305d5f201",
+    "wof:geomhash":"736d9dbb4a0aa062a800a098e5d289fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     20.17147000000001,
     43.7768
 ],
-  "geometry": {"coordinates":[20.17147000000001,43.7768],"type":"Point"}
+  "geometry": {"coordinates":[20.17147,43.7768],"type":"Point"}
 }

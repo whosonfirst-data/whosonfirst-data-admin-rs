@@ -65,7 +65,7 @@
         "wk:page":"Ku%C4%8Dajna"
     },
     "wof:country":"RS",
-    "wof:geomhash":"422b2d49597a43bd35f38b43f7bfe9cf",
+    "wof:geomhash":"c1856332fb7c225d3e9828c864ec6112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.65252000000001,
     44.44865
 ],
-  "geometry": {"coordinates":[21.65252000000001,44.44865],"type":"Point"}
+  "geometry": {"coordinates":[21.65252,44.44865],"type":"Point"}
 }

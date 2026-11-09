@@ -65,7 +65,7 @@
         "wk:page":"Stoja%C4%8Dak"
     },
     "wof:country":"RS",
-    "wof:geomhash":"5cfd3930ea86971dad92889f2653fccc",
+    "wof:geomhash":"48fdb3e846b882ba7336b27aaff99eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     20.9735,
     44.32129000000001
 ],
-  "geometry": {"coordinates":[20.9735,44.32129000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.9735,44.32129],"type":"Point"}
 }

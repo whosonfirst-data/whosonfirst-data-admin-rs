@@ -65,7 +65,7 @@
         "wk:page":"Bukurovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"7cc563c9bedefce46f4946854d954105",
+    "wof:geomhash":"8e49b42bb5009c5013cbc6da61b59f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     22.34128,
     43.24404000000001
 ],
-  "geometry": {"coordinates":[22.34128,43.24404000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.34128,43.24404],"type":"Point"}
 }

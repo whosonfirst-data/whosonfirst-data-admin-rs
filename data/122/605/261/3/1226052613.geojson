@@ -65,7 +65,7 @@
         "wk:page":"Zavlaka"
     },
     "wof:country":"RS",
-    "wof:geomhash":"40488a91e128f2d707dc293764ad0089",
+    "wof:geomhash":"8e55591677d8314180e900d78b063fda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     19.48345,
     44.45652000000001
 ],
-  "geometry": {"coordinates":[19.48345,44.45652000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.48345,44.45652],"type":"Point"}
 }

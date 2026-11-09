@@ -68,7 +68,7 @@
         "wk:page":"Resinac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d72ce9c1b166f3e90c21815f53a7818b",
+    "wof:geomhash":"f54904fb76d98b830c02cf4ca75f5e06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.47027000000001,
     43.26555
 ],
-  "geometry": {"coordinates":[21.47027000000001,43.26555],"type":"Point"}
+  "geometry": {"coordinates":[21.47027,43.26555],"type":"Point"}
 }

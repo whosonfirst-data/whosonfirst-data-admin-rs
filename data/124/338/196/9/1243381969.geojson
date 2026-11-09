@@ -68,7 +68,7 @@
         "wk:page":"Ropo%C4%8Devo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"82f61604e511d155df4e7f4a5f6151d2",
+    "wof:geomhash":"53d8c8ae6d5da2d6d5feac9b59f3966a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.5744,
     44.53579000000001
 ],
-  "geometry": {"coordinates":[20.5744,44.53579000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.5744,44.53579],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Arbanasce"
     },
     "wof:country":"RS",
-    "wof:geomhash":"675f7bd8e432ebaa078d8c39d1234a96",
+    "wof:geomhash":"c04d209b5efa17cb6f0d04b7a31d688b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.63772,
     43.27399000000001
 ],
-  "geometry": {"coordinates":[21.63772,43.27399000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.63772,43.27399],"type":"Point"}
 }

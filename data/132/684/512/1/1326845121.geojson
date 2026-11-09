@@ -71,7 +71,7 @@
         "wk:page":"Vrago%C4%8Danica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"ac30e0edcadb01cb4c0965ad3f8e31bf",
+    "wof:geomhash":"7d4ae6053fb78855837da38a3c8f542e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     19.69253,
     44.28899000000001
 ],
-  "geometry": {"coordinates":[19.69253,44.28899000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.69253,44.28899],"type":"Point"}
 }

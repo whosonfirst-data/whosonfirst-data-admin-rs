@@ -72,7 +72,7 @@
         "wk:page":"Stara_Bo%C5%BEurna"
     },
     "wof:country":"RS",
-    "wof:geomhash":"421b517ec510ec4bb4a974679745e564",
+    "wof:geomhash":"c8be784a834a6b71b8fe58953362b139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     21.66322000000001,
     43.22853
 ],
-  "geometry": {"coordinates":[21.66322000000001,43.22853],"type":"Point"}
+  "geometry": {"coordinates":[21.66322,43.22853],"type":"Point"}
 }

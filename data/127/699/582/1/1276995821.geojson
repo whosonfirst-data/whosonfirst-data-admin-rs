@@ -71,7 +71,7 @@
         "wk:page":"Deguri%C4%87"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e9fe3223f59419fd48b71953d2125b8a",
+    "wof:geomhash":"e3598e51b3bad28f7290afd00959cb07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     19.88851,
     44.23974000000001
 ],
-  "geometry": {"coordinates":[19.88851,44.23974000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.88851,44.23974],"type":"Point"}
 }

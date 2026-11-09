@@ -74,7 +74,7 @@
         "wk:page":"Lukavac_%28Valjevo%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"a9cce530d8a55307bb81c0d7e19c74e8",
+    "wof:geomhash":"a37a9cf58f8adc73648b0c3dc431cbf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     19.99702000000001,
     44.31316
 ],
-  "geometry": {"coordinates":[19.99702000000001,44.31316],"type":"Point"}
+  "geometry": {"coordinates":[19.99702,44.31316],"type":"Point"}
 }

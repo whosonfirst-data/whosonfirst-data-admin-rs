@@ -68,7 +68,7 @@
         "wk:page":"Kalanjevci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"465f5b72a84f7e43d6db2879775768ac",
+    "wof:geomhash":"58e8c09d801dd67ffeb84d2718a20229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     20.38629,
     44.28507000000001
 ],
-  "geometry": {"coordinates":[20.38629,44.28507000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.38629,44.28507],"type":"Point"}
 }

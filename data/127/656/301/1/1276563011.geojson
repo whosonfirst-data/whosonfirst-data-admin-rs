@@ -65,7 +65,7 @@
         "wk:page":"Stari_Bra%C4%8Din"
     },
     "wof:country":"RS",
-    "wof:geomhash":"bc1041315b2f83ce7679d5f1dfdde4a5",
+    "wof:geomhash":"c77afd2aaac4ca6ffb62f6d705c1b491",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.50221,
     43.76974000000001
 ],
-  "geometry": {"coordinates":[21.50221,43.76974000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.50221,43.76974],"type":"Point"}
 }

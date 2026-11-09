@@ -71,7 +71,7 @@
         "wk:page":"Gornje_Me%C4%91urovo"
     },
     "wof:country":"RS",
-    "wof:geomhash":"04e6015a444180a6b4060f08558e9597",
+    "wof:geomhash":"42b6bf074ac2965bb8e6a31b497cd9f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     21.84312000000001,
     43.27741
 ],
-  "geometry": {"coordinates":[21.84312000000001,43.27741],"type":"Point"}
+  "geometry": {"coordinates":[21.84312,43.27741],"type":"Point"}
 }

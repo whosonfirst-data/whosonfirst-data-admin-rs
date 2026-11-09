@@ -71,7 +71,7 @@
         "wk:page":"Stejanovci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"d01e7dfe1b6bdf886a86cffa79ad15cd",
+    "wof:geomhash":"a8930726254a646b5a94e78388c64b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     19.72412000000001,
     45.05637
 ],
-  "geometry": {"coordinates":[19.72412000000001,45.05637],"type":"Point"}
+  "geometry": {"coordinates":[19.72412,45.05637],"type":"Point"}
 }

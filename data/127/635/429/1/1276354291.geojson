@@ -71,7 +71,7 @@
         "wk:page":"Vu%C4%8Di_Del"
     },
     "wof:country":"RS",
-    "wof:geomhash":"37842456d2fc0065cf38a46cfa541cb2",
+    "wof:geomhash":"50e842efec1fa40e5ce864e887d5c25a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.55222,
     42.88417000000001
 ],
-  "geometry": {"coordinates":[22.55222,42.88417000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.55222,42.88417],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Masurica"
     },
     "wof:country":"RS",
-    "wof:geomhash":"197694d94a66096926249c6a94d69d3f",
+    "wof:geomhash":"89958745bac1366bb38ddd51a2613936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     22.16162000000001,
     42.67081
 ],
-  "geometry": {"coordinates":[22.16162000000001,42.67081],"type":"Point"}
+  "geometry": {"coordinates":[22.16162,42.67081],"type":"Point"}
 }

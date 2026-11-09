@@ -74,7 +74,7 @@
         "wk:page":"Maradik"
     },
     "wof:country":"RS",
-    "wof:geomhash":"bbca8c46c456a462b07cdac2b59fdf00",
+    "wof:geomhash":"2fe2a1e87b36c0591e851c151a9520bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     19.99284,
     45.10142000000001
 ],
-  "geometry": {"coordinates":[19.99284,45.10142000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.99284,45.10142],"type":"Point"}
 }

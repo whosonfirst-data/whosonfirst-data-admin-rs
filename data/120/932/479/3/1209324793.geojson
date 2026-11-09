@@ -64,7 +64,7 @@
         "wk:page":"Masurovci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"85fcc592e2395d0b0ee7e77c38477bc1",
+    "wof:geomhash":"f013d5e4ee36f8a5da95f790b35fa0f1",
     "wof:hierarchy":[
         {
             "country_id":85633755,
@@ -87,5 +87,5 @@
     22.43046,
     42.98524000000001
 ],
-  "geometry": {"coordinates":[22.43046,42.98524000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.43046,42.98524],"type":"Point"}
 }

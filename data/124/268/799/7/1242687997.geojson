@@ -68,7 +68,7 @@
         "wk:page":"Sikole"
     },
     "wof:country":"RS",
-    "wof:geomhash":"e7fa2b2f4bf590250e10b9ad2535e71b",
+    "wof:geomhash":"fff3b1809ca5bde7bb1bcc1db223f1f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.30342000000001,
     44.1772
 ],
-  "geometry": {"coordinates":[22.30342000000001,44.1772],"type":"Point"}
+  "geometry": {"coordinates":[22.30342,44.1772],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Ljubi%C4%8Devac_%28Kladovo%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"2e79de850e8c13274b606afb855dfd30",
+    "wof:geomhash":"4b6cf402c6b30d513988ab8eb731d1c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     22.53775,
     44.48954000000001
 ],
-  "geometry": {"coordinates":[22.53775,44.48954000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.53775,44.48954],"type":"Point"}
 }

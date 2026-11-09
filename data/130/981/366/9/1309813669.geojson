@@ -74,7 +74,7 @@
         "wk:page":"Dubravica%2C_Po%C5%BEarevac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"47f1c229a616172e5f425690b5f8b86b",
+    "wof:geomhash":"f6ca52df3dadf30accdf47c28b46b352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     21.08017000000001,
     44.69637
 ],
-  "geometry": {"coordinates":[21.08017000000001,44.69637],"type":"Point"}
+  "geometry": {"coordinates":[21.08017,44.69637],"type":"Point"}
 }

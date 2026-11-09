@@ -74,7 +74,7 @@
         "wk:page":"Popu%C4%8Dke"
     },
     "wof:country":"RS",
-    "wof:geomhash":"43ce8a43113e7b41aae9cb7a80ced50e",
+    "wof:geomhash":"6d923f8284e42398a4b267789d50bf94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     19.95416,
     44.29284000000001
 ],
-  "geometry": {"coordinates":[19.95416,44.29284000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.95416,44.29284],"type":"Point"}
 }

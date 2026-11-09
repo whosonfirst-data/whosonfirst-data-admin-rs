@@ -71,7 +71,7 @@
         "wk:page":"Man%C4%91elos"
     },
     "wof:country":"RS",
-    "wof:geomhash":"1e254354b5621321afebd4fdbc182828",
+    "wof:geomhash":"b07a3cbe60638dc27c8d21b79e5f4c71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     19.59762000000001,
     45.08369
 ],
-  "geometry": {"coordinates":[19.59762000000001,45.08369],"type":"Point"}
+  "geometry": {"coordinates":[19.59762,45.08369],"type":"Point"}
 }

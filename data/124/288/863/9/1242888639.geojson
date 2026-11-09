@@ -71,7 +71,7 @@
         "wk:page":"Ma%C5%BEi%C4%87i"
     },
     "wof:country":"RS",
-    "wof:geomhash":"f026e37344ab47a80796c20ebda4b3ae",
+    "wof:geomhash":"200a84ad9019d344a07365acfd4dd31f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     19.56716,
     43.50174000000001
 ],
-  "geometry": {"coordinates":[19.56716,43.50174000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.56716,43.50174],"type":"Point"}
 }

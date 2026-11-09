@@ -74,7 +74,7 @@
         "wk:page":"Orom_%28Kanji%C5%BEa%29"
     },
     "wof:country":"RS",
-    "wof:geomhash":"cdbee0d90538019c35b28427d75be179",
+    "wof:geomhash":"9fcefcd152afa9c24d996fa00fffe639",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     19.83458,
     45.97714000000001
 ],
-  "geometry": {"coordinates":[19.83458,45.97714000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.83458,45.97714],"type":"Point"}
 }

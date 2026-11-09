@@ -65,7 +65,7 @@
         "wk:page":"Gabrovac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"36e9b8ae4a4b4e2ff123394bb4076ea6",
+    "wof:geomhash":"acc4fb93d53864f0fccb063373c5ba65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     21.92843,
     43.27979000000001
 ],
-  "geometry": {"coordinates":[21.92843,43.27979000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.92843,43.27979],"type":"Point"}
 }

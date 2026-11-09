@@ -71,7 +71,7 @@
         "wk:page":"Bajevac"
     },
     "wof:country":"RS",
-    "wof:geomhash":"69055a3eb7ccff801bec1a83654dad94",
+    "wof:geomhash":"069d7b5f493d99dddd973fc6ae1d02aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     20.06027000000001,
     44.37809
 ],
-  "geometry": {"coordinates":[20.06027000000001,44.37809],"type":"Point"}
+  "geometry": {"coordinates":[20.06027,44.37809],"type":"Point"}
 }

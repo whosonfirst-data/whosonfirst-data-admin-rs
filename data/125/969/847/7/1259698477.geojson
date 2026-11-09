@@ -65,7 +65,7 @@
         "wk:page":"Sepci"
     },
     "wof:country":"RS",
-    "wof:geomhash":"5d0f92dd08a51b0566afa0543ad4afb0",
+    "wof:geomhash":"e8641f3e30d655fe8f8fc8e8c4278bce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     20.83382000000001,
     44.26461
 ],
-  "geometry": {"coordinates":[20.83382000000001,44.26461],"type":"Point"}
+  "geometry": {"coordinates":[20.83382,44.26461],"type":"Point"}
 }

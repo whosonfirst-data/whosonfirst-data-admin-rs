@@ -63,7 +63,7 @@
         102191581,
         85633755,
         1108809997,
-        101914147,
+        1393843443,
         404228357,
         85688279
     ],
@@ -79,10 +79,10 @@
     "wof:geomhash":"1cc1256f5f7716e57a9f52c052b95bd1",
     "wof:hierarchy":[
         {
+            "borough_id":1393843443,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108809997,
-            "locality_id":101914147,
             "macroregion_id":404228357,
             "neighbourhood_id":85898235,
             "region_id":85688279
@@ -91,7 +91,7 @@
     "wof:id":85898235,
     "wof:lastmodified":1593718867,
     "wof:name":"Novi Beograd",
-    "wof:parent_id":101914147,
+    "wof:parent_id":1393843443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

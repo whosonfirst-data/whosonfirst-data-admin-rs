@@ -98,7 +98,7 @@
         102191581,
         85633755,
         1108810141,
-        101913173,
+        1393843427,
         404228357,
         85688279
     ],
@@ -117,10 +117,10 @@
     "wof:geomhash":"1ba5d98eb7a0ca7b844830bbd6a7f571",
     "wof:hierarchy":[
         {
+            "borough_id":1393843427,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108810141,
-            "locality_id":101913173,
             "macroregion_id":404228357,
             "neighbourhood_id":85898239,
             "region_id":85688279
@@ -132,7 +132,7 @@
     ],
     "wof:lastmodified":1593718897,
     "wof:name":"Top\u010didersko Brdo",
-    "wof:parent_id":101913173,
+    "wof:parent_id":1393843427,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

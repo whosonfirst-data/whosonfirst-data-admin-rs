@@ -146,7 +146,7 @@
         1108809881,
         85633755,
         404228357,
-        101914149,
+        1393843445,
         85688279
     ],
     "wof:breaches":[],
@@ -164,10 +164,10 @@
     "wof:geomhash":"9e0b095ee9fbd0078baf4fd746cbc65d",
     "wof:hierarchy":[
         {
+            "borough_id":1393843445,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108809881,
-            "locality_id":101914149,
             "macroregion_id":404228357,
             "neighbourhood_id":85898229,
             "region_id":85688279
@@ -176,7 +176,7 @@
     "wof:id":85898229,
     "wof:lastmodified":1690858532,
     "wof:name":"\u010cukarica",
-    "wof:parent_id":101914149,
+    "wof:parent_id":1393843445,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

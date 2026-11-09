@@ -152,7 +152,7 @@
         1108810145,
         85633755,
         404228357,
-        101914161,
+        1393843461,
         85688279
     ],
     "wof:breaches":[],
@@ -170,10 +170,10 @@
     "wof:geomhash":"15bc7cc2ca308598f8ca8176b376a72c",
     "wof:hierarchy":[
         {
+            "borough_id":1393843461,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108810145,
-            "locality_id":101914161,
             "macroregion_id":404228357,
             "neighbourhood_id":85898243,
             "region_id":85688279
@@ -182,7 +182,7 @@
     "wof:id":85898243,
     "wof:lastmodified":1690858532,
     "wof:name":"Vra\u010dar",
-    "wof:parent_id":101914161,
+    "wof:parent_id":1393843461,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],

@@ -84,7 +84,7 @@
         102191581,
         85633755,
         1108810063,
-        101914163,
+        1393843463,
         404228357,
         85688279
     ],
@@ -101,10 +101,10 @@
     "wof:geomhash":"e581a651eff408d8498fe7e53c1fdffa",
     "wof:hierarchy":[
         {
+            "borough_id":1393843463,
             "continent_id":102191581,
             "country_id":85633755,
             "localadmin_id":1108810063,
-            "locality_id":101914163,
             "macroregion_id":404228357,
             "neighbourhood_id":85898237,
             "region_id":85688279
@@ -113,7 +113,7 @@
     "wof:id":85898237,
     "wof:lastmodified":1593718888,
     "wof:name":"Senjak",
-    "wof:parent_id":101914163,
+    "wof:parent_id":1393843463,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-rs",
     "wof:superseded_by":[],
